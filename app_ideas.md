@@ -80,27 +80,27 @@ Mobile App Dev - App Brainstorming Example
 2. App that has starts a timer in the background every single time you waste your time on social media, YouTube etc. It shames you after for your lack of productivity
 3.something like a dashboard where you can see all your school assignments, deadlines, and exams in one page and set reminders to do things in advance. You can also use it for personal projects.
 
-## New App Ideas - Evaluate and Categorize
-Tinder, but for music
--**Category** Entertainment, Social, Media & Video
-**Mobile** Quick introduction to new artists by quickly cycling through their media (songs, pics) is perfect for a mobile platform that wants your 'spare time' moments. Today, mobile platforms is where everyone keeps and accesses their music, or connecting mobile to a speaker it all starts from mobile.
-**Story** Connects musicians and fans, gives very detailed feedback and data to musicians about their potential fans such as regional likes/dislikes, what songs people swipe right on, what songs do ppl swipe left on. What regions need a live show.
-**Market**  People that want to discover new music tailored to their likes/dislikes over time
-**Habit** Being on the cusp of new music and undiscovered music is very exciting. Because of the quick access, the app avails itself for the spare short minutes like waiting or dead-time where one might listen to music anyways.
-**Scope** Start focused on undiscovered music talent, up-and-comers, this strategy also takes advantage of the 'taste-maker' users who are on the forefront of adoption.  Expand to mainstream music and bigger artists who want to get feedback on experiments or new potential music.
-
-Background timer
-**Category** Productivity
-**Mobile** We use our phones and tablets more for the apps that make us less productive
-**Story** We need tangible numbers that tell us how unproductive we actually are, we would be able to see the improvements that we make in our allocation of time per day
-**Market**  Anyone who feels they waste a lot of time on unnecessary apps like Facebook and YouTube
-**Habit** It would just be something you install and runs in the background. You would be notified of the time spent on platforms you consider to be unproductive. Wouldn't necessarily be something you become addictive unless people become obsessed with the improvements they make
-**Scope**  Runs in the background and would rely mostly on a timer, the other features would be more data analysis. Could be very simple depending on the complexity of the data analysis
-
-Personal Dashboard
-**Category** Productivity
-**Mobile** Having a centralized depository of productivity data is critical that it be an app, and be able to follow the user.
-**Story** Allows people to look at their tasks, assignments, goals, etc.
-**Market** Anyone with internet access, people who want to be productive and track productivity.
-**Habit** It's meant to help you being productive, but if people like productivity it can be addicting.
+## New App Ideas - Evaluate and Categorize  
+Tinder, but for music  
+-**Category** Entertainment, Social, Media & Video  
+**Mobile** Quick introduction to new artists by quickly cycling through their media (songs, pics) is perfect for a mobile platform that wants your 'spare time' moments. Today, mobile platforms is where everyone keeps and accesses their music, or connecting mobile to a speaker it all starts from mobile.  
+**Story** Connects musicians and fans, gives very detailed feedback and data to musicians about their potential fans such as regional likes/dislikes, what songs people swipe right on, what songs do ppl swipe left on. What regions need a live show.  
+**Market**  People that want to discover new music tailored to their likes/dislikes over time  
+**Habit** Being on the cusp of new music and undiscovered music is very exciting. Because of the quick access, the app avails itself for the spare short minutes like waiting or dead-time where one might listen to music anyways.  
+**Scope** Start focused on undiscovered music talent, up-and-comers, this strategy also takes advantage of the 'taste-maker' users who are on the forefront of adoption.  Expand to mainstream music and bigger artists who want to get feedback on experiments or new potential music.    
+  
+Background timer  
+**Category** Productivity  
+**Mobile** We use our phones and tablets more for the apps that make us less productive  
+**Story** We need tangible numbers that tell us how unproductive we actually are, we would be able to see the improvements that we make in our allocation of time per day  
+**Market**  Anyone who feels they waste a lot of time on unnecessary apps like Facebook and YouTube  
+**Habit** It would just be something you install and runs in the background. You would be notified of the time spent on platforms you consider to be unproductive. Wouldn't necessarily be something you become addictive unless people become obsessed with the improvements they make  
+**Scope**  Runs in the background and would rely mostly on a timer, the other features would be more data analysis. Could be very simple depending on the complexity of the data analysis   
+  
+Personal Dashboard  
+**Category** Productivity  
+**Mobile** Having a centralized depository of productivity data is critical that it be an app, and be able to follow the user.  
+**Story** Allows people to look at their tasks, assignments, goals, etc.  
+**Market** Anyone with internet access, people who want to be productive and track productivity.  
+**Habit** It's meant to help you being productive, but if people like productivity it can be addicting.  
 **Scope** A simple dashboard to show your goals/assignments. It can become more powerful with the use of ML to give you suggestions on what to do first and how to group your tasks to be more efficient.
