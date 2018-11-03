@@ -15,6 +15,70 @@ Tinder, but for music for discovering and rating new music.
 ### User Stories
 1. User can discover or be introduced to new music.  The user will open the app, and immediately see new music matches that they may like given their preferences.  User can tap let or right to cycle through the songs.  If they like the music, swipe right, if they do not care for it, swipe left.
 
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can Login
+ * User can Register
+ * User can scroll a Feed
+ * User can access their "Collection"
+ * User can share an Item (song/playlist/album/artist)
+ * User can further access Details about artist
+
+
+**Optional Nice-to-have Stories**
+
+ *  User can purchase or access songs at their 'base' like spotify/itunes/soundcloud/etc.
+ *  User can rate the Item (song/artist/etc)
+ *  User can Create a 'Mix Tape' playlist
+ *  User can access listings of live shows by the artist or live music nearby that is similar to the artist
+
+## 2. Screen Archetypes
+
+ * Login Screen
+     * User can login
+ * Registration Screen
+     * User can register
+ * Stream (Home Feed)
+     * User can view a feed of Items (songs/artists/etc)
+     * User can tap a Item to go to Details
+ * Details
+     * User can share an Item (song/playlist/album/artist)
+     * User can further access Details about artist
+ * Creation
+     * User can create a 'Mix' (playlist)
+ * Share
+     * User can share items
+     * User can follow/unfollow artist
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home Feed
+ * Search Items
+ * Create a Mix
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen
+     * Home Feed
+     * Registration Screen
+ * Registration Screen
+     * Home Feed
+ * Home Feed
+     * Details
+     * Creation
+     * Share
+ * Details
+     * Home Feed
+ * Creation
+     * Home Feed
+ * Share
+     * Home Feed
+     * Details
+
 
 ---
 
