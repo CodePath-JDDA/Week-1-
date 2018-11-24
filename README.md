@@ -83,7 +83,7 @@ Tinder, but for music for discovering and rating new music.
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+![alt text](https://github.com/CodePath-JDDA/Week-1-/blob/master/Untitled.jpg)
 
 ---
 
