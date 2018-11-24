@@ -85,6 +85,9 @@ Tinder, but for music for discovering and rating new music.
 ### Wireframes
 ![alt text](https://github.com/CodePath-JDDA/Week-1-/blob/master/Untitled.jpg)
 
+![](https://github.com/CodePath-JDDA/Week-1-/blob/master/Wireframe_Prototype.gif)
+
+
 ---
 
 ### App Pitch Presentation
